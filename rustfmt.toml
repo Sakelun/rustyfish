@@ -1,0 +1,3 @@
+max_width = 80
+# one day soon this will be valid and you'll want it
+#wrap_comments = true
